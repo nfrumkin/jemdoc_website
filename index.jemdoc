@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{example.html}, addcss{example.css}
+= Natalia Frumkin
+
+
+## jemdoc: start now.
+
+~~~
+{}{img_left}{images/headshot.jpg}{Temp}{150}
+~~~
+
+= Contact
+~~~
+<first_initial><last_name>@bu.edu
+~~~

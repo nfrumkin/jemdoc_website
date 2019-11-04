@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{example.html}, addcss{example.css}
+= Publications
+## jemdoc: start now.
+
+~~~
+J. Zhao, *N. Frumkin*, P. Ishwar, and J. Konrad, “CNN-Based Indoor Occupant Localization via Active Scene Illumination,” in International Conference on Image Processing (*ICIP*), September 2019.
+~~~
+
+~~~
+J. Zhao, *N. Frumkin*, J. Konrad, and P. Ishwar, “Privacy-preserving indoor localization via active scene illumination,” in IEEE Conference on Computer Vision and Pattern Recognition (*CVPR*), Workshop on Challenges and Opportunities for Privacy and Security (COPS), June 2018.
+~~~

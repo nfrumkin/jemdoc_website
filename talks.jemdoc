@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{example.html}, addcss{example.css}
+= Talks
+
+== Conferences
+~~~
+*ICIP Poster Session:* /CNN-Based Indoor Occupant Localization via Active Scene Illumination/ (September '19)
+
+*MIC Conference:* /Online Divergence Learning/ (September '19)
+
+*DevConf USA:* /Data Science on Prometheus Metrics/ (August '18)
+~~~
+
+== Miscellaneous
+~~~
+*BostonHacks Workshop:* /A Hacker's Guide to Parallelization/ (November '19)
+
+*Boston Linux Users:* /Distributed Computing using MPI on a RaspberryPi Cluster/ (November '19)
+
+*Supercomputing Group of Boston:* /Super-resolution on a RaspberryPi Cluster/ (November '19)
+
+*BU AI Research Group:* /Non-linear Metric Learning/ (July '19)
+
+*BU Hack4Impact:* /An Introduction to Machine Learning/ (March '19)
+
+*BU CS Department Hack Nights: * /Machine Learning Fundamentals/ (April '19)
+
+*BU UROP Poster Session:* /Object Localization using Light Transport Analysis/ (October '17)
+~~~
+
+== Recurring
+~~~
+*BUHPC Weekly Workshops:* Various Topics in High Performance Computing (Fall 2019)
+~~~
